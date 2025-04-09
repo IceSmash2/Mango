@@ -1,0 +1,31 @@
+# stellar.toml file for Mango
+
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS = [
+  "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT", # Mango Issuer
+  "GAQFGRP2MDDGD6JI5GSHLAYJYWZ5OKWM3GQDF6ID4JZBIZZL2GBKCOIN" # Mango Distro
+]
+
+[DOCUMENTATION]
+ORG_NAME = "Mango"
+ORG_URL = "https://github.com/IceSmash2/Mango/"
+ORG_DESCRIPTION = "Mango to the trees!!."
+ORG_LOGO = "https://github.com/IceSmash2/Mango/blob/main/img/mango.png"
+ORG_TWITTER="@MangoCrypto2"
+ORG_OFFICIAL_EMAIL="stellarmangos2@gmail.com"
+
+[[PRINCIPALS]]
+name="Smoothie"
+email="stellarmangos2@gmail.com"
+
+[CURRENCIES]
+code = "Mango"
+issuer = "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT"
+name="Mango"
+desc="Mango: Better Than Ever!"
+image="https://github.com/IceSmash2/Mango/blob/main/img/mango.png"
+display_decimals = 6
+is_well_known = true
+conditions="Total Market Cap 52 Billion Mangos 🥭"
+fixed_number=5242042069
