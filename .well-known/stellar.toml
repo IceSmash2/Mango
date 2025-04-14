@@ -19,13 +19,14 @@ ORG_OFFICIAL_EMAIL="stellarmangos2@gmail.com"
 name="Smoothie"
 email="stellarmangos2@gmail.com"
 
-[CURRENCIES]
+[[CURRENCIES]]
 code = "Mango"
 issuer = "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT"
-name="Mango"
-desc="Mango: Better Than Ever!"
-image="https://pplx-res.cloudinary.com/image/upload/v1744172970/user_uploads/sZPiuDrAfmtZJli/Mango-256x256.jpg"
+name = "Mango"
+desc = "Mango: Better Than Ever!"
+image = "https://pplx-res.cloudinary.com/image/upload/v1744172970/user_uploads/sZPiuDrAfmtZJli/Mango-256x256.jpg"
 display_decimals = 6
-is_well_known = true
-conditions="Total Market Cap 52 Billion Mangos 🥭"
-fixed_number=5242042069
+status = "live"
+conditions = "Total Market Cap 52 Billion Mangos 🥭"
+fixed_number = 5242042069
+is_asset_anchored = false  # Required field[^2]
