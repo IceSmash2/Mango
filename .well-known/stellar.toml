@@ -11,7 +11,7 @@ ACCOUNTS = [
 ORG_NAME = "Mango"
 ORG_URL = "https://www.mangocoin.space"
 ORG_DESCRIPTION = "Mango to the trees!!."
-ORG_LOGO = "https://pplx-res.cloudinary.com/image/upload/v1744172970/user_uploads/sZPiuDrAfmtZJli/Mango-256x256.jpg"
+ORG_LOGO = "https://github.com/IceSmash2/Mango/blob/main/img/Mango%20Token%20128x128.png"
 ORG_TWITTER="@MangoCrypto2"
 ORG_OFFICIAL_EMAIL="stellarmangos2@gmail.com"
 
@@ -24,7 +24,7 @@ code = "Mango"
 issuer = "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT"
 name = "Mango"
 desc = "Mango: Better Than Ever!"
-image = "https://pplx-res.cloudinary.com/image/upload/v1744172970/user_uploads/sZPiuDrAfmtZJli/Mango-256x256.jpg"
+image = "https://github.com/IceSmash2/Mango/blob/main/img/Mango%20Token%20128x128.png"
 display_decimals = 6
 status = "live"
 conditions = "Total Market Cap 52 Billion Mangos 🥭"
