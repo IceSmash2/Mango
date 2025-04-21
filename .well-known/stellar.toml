@@ -9,7 +9,7 @@ ACCOUNTS = [
 
 [DOCUMENTATION]
 ORG_NAME = "Mango"
-ORG_URL = "https://icesmash2.github.io/Mango/"
+ORG_URL = "https://www.mangocoin.space"
 ORG_DESCRIPTION = "Mango to the trees!!."
 ORG_LOGO = "https://pplx-res.cloudinary.com/image/upload/v1744172970/user_uploads/sZPiuDrAfmtZJli/Mango-256x256.jpg"
 ORG_TWITTER="@MangoCrypto2"
