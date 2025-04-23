@@ -9,7 +9,7 @@ ACCOUNTS = [
 
 [DOCUMENTATION]
 ORG_NAME = "Mango"
-ORG_URL = "https://www.mangocoin.space"
+ORG_URL = "https://mangocoin.space"
 ORG_DESCRIPTION = "Mango to the trees!!."
 ORG_LOGO = "https://tinyurl.com/MangoGithubLogo"
 ORG_TWITTER="@MangoCrypto2"
