@@ -1,0 +1,41 @@
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS = [
+  "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT", # Mango Issuer
+  "GAQFGRP2MDDGD6JI5GSHLAYJYWZ5OKWM3GQDF6ID4JZBIZZL2GBKCOIN" # Mango Distro
+]
+
+[DOCUMENTATION]
+ORG_NAME = "Mango"
+ORG_URL = "https://mangocoin.space"
+ORG_DESCRIPTION = "mangoman great"
+ORG_LOGO = "https://tinyurl.com/MangoGithubLogo"
+ORG_TWITTER="@MangoCrypto2"
+ORG_OFFICIAL_EMAIL="stellarmangos2@gmail.com"
+
+[[PRINCIPALS]]
+name="Smoothie"
+email="stellarmangos2@gmail.com"
+
+[[CURRENCIES]]
+code = "Mango"
+issuer = "GASGDM5JZ6UZETZ6POVYYJWIF2GCIGYKSUQP3CIMUWFE4HB5SEUQSLUT"
+name = "Mango"
+desc = "Mango: Better Than Ever!"
+image = "https://tinyurl.com/MangoGithubLogo"
+display_decimals = 6
+status = "live"
+conditions = "Total Market Cap 52 Billion Mangos 🥭"
+fixed_number = 5242042069
+is_asset_anchored = false  # Required field[^2]
+
+[[CURRENCIES]]
+code = "Slut"
+issuer = "GDK2ZPX5QSW523TG4NHG6ONIKNIXAINYNSGHOSEJAHEKDEC3WOCMP4V2"
+name = "Slut"
+desc = " Slutty and Sweet"
+image = "https://yourdomain.com/path/to/slut-logo.png" 
+display_decimals = 6
+status = "live"
+conditions = "  Slutty and Sweet "
+is_asset_anchored = false
